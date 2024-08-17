@@ -15,12 +15,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./assets/images/Screenshot.png)
+![](/blog-preview-card-main/assets/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+- Live Site URL: [blog-card](https://boisterous-bombolone-b06dc2.netlify.app/)
 
 ### Built with
 
